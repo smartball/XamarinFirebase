@@ -1,0 +1,10 @@
+/Users/superball/Projects/TestDB/iOS/bin/iPhoneSimulator/Debug/TestDB.iOS.exe
+/Users/superball/Projects/TestDB/iOS/bin/iPhoneSimulator/Debug/TestDB.iOS.pdb
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/TestDB.iOS.csprojResolveAssemblyReference.cache
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/TestDB.iOS.csproj.CoreCompileInputs.cache
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/TestDB.iOS.exe
+/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/TestDB.iOS.pdb

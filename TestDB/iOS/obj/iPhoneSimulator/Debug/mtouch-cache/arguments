@@ -1,0 +1,35 @@
+# Version: 11.4.0.214 (d15-5: c4240f3f)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.4.0.214/lib/mtouch/mtouch.exe \
+	/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/superball/Projects/TestDB/iOS/bin/iPhoneSimulator/Debug/TestDB.iOS.app \
+	--executable \
+	TestDB.iOS \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	11.1 \
+	--targetver \
+	8.0 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/superball/Projects/TestDB/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--target-framework \
+	'Xamarin.iOS,v1.0' \
+	/Users/superball/Projects/TestDB/iOS/bin/iPhoneSimulator/Debug/TestDB.iOS.exe \

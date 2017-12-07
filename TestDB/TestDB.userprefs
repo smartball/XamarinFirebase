@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9CC42B5D-CE47-44C2-B5CE-E46906F5BD16}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestDB.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.259AA717-EB4A-4719-9014-E57A9A41A87F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestDB.iOS>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="110" Column="30" />
+      <File FileName="Droid/ListViewAdapter.cs" Line="52" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestDB" expanded="True">
+            <Node name="TestDB.Droid" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True">
+                  <Node name="styles.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestDB.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_24" />
+</Properties>
